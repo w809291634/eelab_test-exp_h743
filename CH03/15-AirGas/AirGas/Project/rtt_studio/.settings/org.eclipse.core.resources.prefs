@@ -1,0 +1,6 @@
+autoUpdatePkgs=true
+eclipse.preferences.version=1
+encoding//zonesion/app/board=UTF-8
+encoding//zonesion/app/gui=UTF-8
+encoding//zonesion/common/DRV/drv_lcd/ST7789.c=UTF-8
+encoding//zonesion/common/DRV/drv_lcd/st7789.h=UTF-8
